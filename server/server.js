@@ -20,6 +20,7 @@ app.use('/api/invoices', require('./routes/invoiceRoutes'));
 app.use('/api/transactions', require('./routes/transactionRoutes'));
 app.use('/api/sales', require('./routes/salesRoutes'));
 app.use('/api/marketing', require('./routes/marketingRoutes'));
+app.use('/api/auth', require('./routes/authRoutes'));
 
 // Start server
 const PORT = process.env.PORT || 5000;
