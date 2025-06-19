@@ -35,7 +35,7 @@ The **Small Business Toolkit App** is a lightweight, user-friendly mobile/web so
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/small-business-toolkit.git
+git clone https://github.com/OwethuSotomela/small-business-toolkit.git
 cd small-business-toolkit
 npm install
 npm start
